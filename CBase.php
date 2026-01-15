@@ -1,9 +1,9 @@
 <?php
 class CBase {
-    private $db_host = "sql101.infinityfree.com";
-    private $db_user = "if0_40908733";
-    private $db_password = "Estrella070400";
-    private $db_name = "if0_40908733_decortec";
+    private $db_host = "bd6nwozkfuy3bx0r6czs-mysql.services.clever-cloud.com";
+    private $db_user = "uvrlnlkgonttshoc";
+    private $db_password = "BmR9D1le4UryBaTkij03";
+    private $db_name = "bd6nwozkfuy3bx0r6czs";
     private $charset = "utf8";
     private $connection;
 
